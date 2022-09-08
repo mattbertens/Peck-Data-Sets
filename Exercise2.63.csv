@@ -1,0 +1,3 @@
+Loan_status,Public_colleges,Private_nonprofit_colleges,For-Profit_Colleges
+Good_standing,0.928,0.953,0.833
+In_default,0.072,0.047,0.167

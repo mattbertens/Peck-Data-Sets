@@ -1,0 +1,8 @@
+Deficit,Morning_Start_Relative_Frequency,Afternoon_Start_Relative_Frequency
+-6_to_<_-4,0.007,0.02
+-4_to_<_-2,0.028,0.05
+-2_to_<_0,0.065,0.19
+0_to_<_2,0.442,0.57
+2_to_<_4,0.364,0.12
+4_to_<_6,0.078,0.04
+6_to_<_8,0.015,0.01
